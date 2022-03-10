@@ -1,0 +1,10 @@
+ table{
+     border-spacing: 8px;
+     
+ }
+ th, td {
+        border: 1px solid black;
+        border-radius: 5px;
+        box-shadow: 3px 3px #bdbbbb;
+        
+}

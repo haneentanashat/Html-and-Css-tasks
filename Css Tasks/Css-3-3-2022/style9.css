@@ -1,0 +1,31 @@
+body {
+    background-color: rgb(255, 255, 198);
+}
+
+article {
+    background-color: white;
+    border: 1px solid black;
+    width: 500px;
+    margin: 15px;
+    padding: 5px;
+}
+
+#red {
+    color: red;
+    border: 1px dashed black;
+}
+
+#pRed {
+    border: 1px dotted red;
+    padding: 1px;
+}
+
+.orange {
+    background-color: orange;
+    font-weight: bold;
+}
+
+.yellow {
+    background-color: yellow;
+    font-weight: bold;
+}

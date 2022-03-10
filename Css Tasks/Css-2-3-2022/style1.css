@@ -1,0 +1,16 @@
+h2{
+    color: rgb(40, 130, 165);
+    background-color: rgb(156, 217, 238);
+}
+span{
+    color: rgb(28, 184, 236);
+}
+.Blue{
+    color: rgb(28, 184, 236);
+}
+table , th, td {
+    border: 1px solid black;
+
+    border-collapse: collapse;}
+tr:nth-child(odd) {
+    background-color:rgb(218, 216, 216);}

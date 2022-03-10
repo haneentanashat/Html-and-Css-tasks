@@ -1,0 +1,21 @@
+
+
+div {
+    width: 500px;
+    height: 500px;
+    padding: 15px;
+    margin: auto;
+    background-color: green;
+    border: 50px double yellow;
+}
+
+p {
+    text-align: center;
+    font-size: 30px;
+    color: white;
+    position: relative;
+    top: 200px;
+    
+
+    
+}
